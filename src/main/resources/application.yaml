@@ -1,0 +1,9 @@
+swagger:
+  application:
+    Loyalty:
+      X-Loyalty: https://petstore.swagger.io/v2/swagger.json
+      Y-Loyalty: https://petstore.swagger.io/v2/swagger.json
+    Customer:
+      X-Customer: https://petstore.swagger.io/v2/swagger.json
+      Y-Customer: https://petstore.swagger.io/v2/swagger.json
+      Z-Customer: https://petstore.swagger.io/v2/swagger.json
